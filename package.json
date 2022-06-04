@@ -1,0 +1,21 @@
+{
+  "name": "project_chat_application",
+  "version": "1.0.0",
+  "description": "### [Live Site](https://realtime-chat-application.netlify.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd server && npm i && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandita-jain/chatbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nandita-jain/chatbox/issues"
+  },
+  "homepage": "https://github.com/nandita-jain/chatbox#readme"
+}
