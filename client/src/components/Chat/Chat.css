@@ -4,7 +4,8 @@
   align-items: center;
   height: 100vh;
   background-image:url("/peakpx.jpeg") ;
-  background-size: 200px 100px;
+  background-size: 300px 220px;
+  background-repeat: no-repeat;
 }
 
 .container {
