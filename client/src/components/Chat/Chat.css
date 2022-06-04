@@ -4,7 +4,7 @@
   align-items: center;
   height: 100vh;
   background-image:url("/peakpx.jpeg") ;
-  /* background-size: 1080px 720px; */
+  background-size: 3840px 2400px;
   background-repeat: no-repeat , repeat;
 }
 
