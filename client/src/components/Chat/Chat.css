@@ -5,7 +5,7 @@
   height: 100vh;
   background-image:url("/peakpx.jpeg") ;
   background-size: 300px 220px;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat , repeat;
 }
 
 .container {
